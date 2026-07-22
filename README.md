@@ -1,16 +1,22 @@
-## Hi there 👋
+# Giovanni *(Giovy)* 👋
 
-<!--
-**Giovy52845/Giovy52845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 **CS Student @ UniPi** | Web, Backend & Networking Developer
 
-Here are some ideas to get you started:
+Sono uno studente di Informatica in procinto di laurearmi a Pisa. Mi appassiona il mondo dell'infrastruttura web, le architetture backend e la gestione delle reti.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 In evidenza
+
+#### 📚 [CozyShelf](https://cozyshelf.page) `In Sviluppo Continuo`
+Un social network dedicato agli amanti della lettura per scoprire libri, gestire scaffali virtuali e condividere consigli.
+* **Tech:** TypeScript, React, Java (Spring Boot), MongoDB, Cloudflare R2
+
+---
+
+### 🛠️ Competenze & Tecnologia
+
+* **Sviluppo Web & Backend:** TypeScript, JavaScript, Java, Spring Boot, React, C
+* **Reti & Infrastruttura:** Linux, Docker, Cloudflare R2, API REST
+* **Database:** MongoDB, Firebase
+* *Background accademico anche su Assembly e Verilog.*
