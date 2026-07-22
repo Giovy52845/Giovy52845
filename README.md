@@ -12,6 +12,14 @@ Sono uno studente di Informatica in procinto di laurearmi a Pisa. Mi appassiona 
 Un social network dedicato agli amanti della lettura per scoprire libri, gestire scaffali virtuali e condividere consigli.
 * **Tech:** TypeScript, React, Java (Spring Boot), MongoDB, Cloudflare R2
 
+#### 📡 [AirWatch](https://github.com/Giovy52845/AirWatch)
+Tool in C per l'analisi del traffico Wi-Fi IEEE 802.11 in *monitor mode*. Analizza frame Beacon e Data in tempo reale o da file `.pcap` mappando Access Point e dispositivi connessi.
+* **Tech Stack:** `C` • `libpcap` • `Linux` • `IEEE 802.11` • `Bash / airmon-ng`
+
+#### 🏥 [SAW-MedHub](https://github.com/Giovy52845/SAW-MedHub)
+Applicativo web sviluppato per il corso di Sviluppo Applicazioni Web (UniPi) per la gestione di servizi e visite in ambito sanitario.
+* **Tech Stack:** `JavaScript` • `Web Development` • `Database`
+
 ---
 
 ### 🛠️ Competenze & Tecnologia
