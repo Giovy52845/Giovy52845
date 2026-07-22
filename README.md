@@ -20,6 +20,9 @@ Tool in C per l'analisi del traffico Wi-Fi IEEE 802.11 in *monitor mode*. Analiz
 Piattaforma web ispirata a MioDottore per la gestione di appuntamenti e profili medici, con prenotazione slot, referti e notifiche in tempo reale.
 * **Tech Stack:** `React (Vite)` • `Node.js` • `Express` • `Firebase` • `JavaScript`
 
+#### 🎲 [Paroliere-Online-C](https://github.com/Giovy52845/Paroliere-Online-C)
+Game Server distribuito in C per il gioco "Il Paroliere". Architettura multi-threaded con Pthreads, Socket POSIX, segnali Linux e strutture dati custom (Trie, Hash Table).
+* **Tech Stack:** `C` • `POSIX Threads` • `POSIX Sockets` • `Trie` • `Valgrind`
 ---
 
 ### 🛠️ Competenze & Tecnologia
