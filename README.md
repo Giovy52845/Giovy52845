@@ -38,7 +38,8 @@ Sono uno studente di Informatica in procinto di laurearmi a Pisa. Mi appassiona 
 
 ### 🛠️ Competenze & Tecnologia
 
-* **Sviluppo Web & Backend:** TypeScript, JavaScript, Java, Spring Boot, React, C
-* **Reti & Infrastruttura:** Linux, Docker, Cloudflare R2, API REST
-* **Database:** MongoDB, Firebase
-* *Background accademico anche su Assembly e Verilog.*
+* **Sviluppo Web & Backend:** TypeScript, JavaScript, Java (Spring Boot), React, Tailwind CSS, Node.js/Express, C
+* **Database & Caching:** MongoDB, Redis, Firebase
+* **Cloud, DevOps & Infrastruttura:** Docker, Traefik, HashiCorp Vault, Cloudflare R2, Linux, Bash, API REST
+* **Sistemi Distribuiti & Reti:** POSIX Sockets, TCP/UDP, Java NIO, Multi-threading (Pthreads), libpcap
+* *Background accademico su Assembly e Verilog.*
