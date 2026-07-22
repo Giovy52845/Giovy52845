@@ -12,7 +12,7 @@ Sono uno studente di Informatica in procinto di laurearmi a Pisa. Mi appassiona 
 
 * **📚 [CozyShelf](https://cozyshelf.page)** `In Sviluppo Continuo`  
   Social network per amanti della lettura per scoprire libri, gestire scaffali virtuali e condividere consigli.  
-  `TypeScript` • `React` • `Tailwind` • `Java (Spring Boot)` • `MongoDB` • `Cloudflare R2`
+ `TypeScript` • `React` • `Java (Spring Boot)` • `Redis` • `MongoDB` • `Cloudflare R2`
 
 * **🏥 [SAW-MedHub](https://github.com/Giovy52845/SAW-MedHub)**  
   Piattaforma web ispirata a MioDottore per la gestione di appuntamenti e profili medici, con prenotazione slot, referti e notifiche in tempo reale.  
