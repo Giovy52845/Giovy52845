@@ -17,8 +17,8 @@ Tool in C per l'analisi del traffico Wi-Fi IEEE 802.11 in *monitor mode*. Analiz
 * **Tech Stack:** `C` • `libpcap` • `Linux` • `IEEE 802.11` • `Bash / airmon-ng`
 
 #### 🏥 [SAW-MedHub](https://github.com/Giovy52845/SAW-MedHub)
-Applicativo web sviluppato per il corso di Sviluppo Applicazioni Web (UniPi) per la gestione di servizi e visite in ambito sanitario.
-* **Tech Stack:** `JavaScript` • `Web Development` • `Database`
+Piattaforma web ispirata a MioDottore per la gestione di appuntamenti e profili medici, con prenotazione slot, referti e notifiche in tempo reale.
+* **Tech Stack:** `React (Vite)` • `Node.js` • `Express` • `Firebase` • `JavaScript`
 
 ---
 
